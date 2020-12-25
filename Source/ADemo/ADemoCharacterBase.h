@@ -61,7 +61,7 @@ public:
 	#pragma region Ability System and Effect
 	/// 应用被动效果
 	UFUNCTION(BlueprintCallable, Category = "Abilities")
-	void ApplyPassiveEffect(TSubclassOf<UGameplayEffect> effect);
+	FActiveGameplayEffectHandle ApplyPassiveEffect(TSubclassOf<UGameplayEffect> effect);
 
 	UFUNCTION(BlueprintCallable, Category = "Abilities")
 	bool ActiveAbility(ESkillType type);

@@ -44,7 +44,7 @@ UAbilitySystemComponent* AADemoCharacterBase::GetAbilitySystemComponent() const
 	return AbilitySystemComp;
 }
 
-void AADemoCharacterBase::ApplyPassiveEffect(TSubclassOf<UGameplayEffect> effect)
+FActiveGameplayEffectHandle AADemoCharacterBase::ApplyPassiveEffect(TSubclassOf<UGameplayEffect> effect)
 {
 	FGameplayEffectContextHandle EffectContext = AbilitySystemComp->MakeEffectContext();
 	EffectContext.AddSourceObject(this);
@@ -53,7 +53,9 @@ void AADemoCharacterBase::ApplyPassiveEffect(TSubclassOf<UGameplayEffect> effect
 	if (NewHandle.IsValid())
 	{
 		FActiveGameplayEffectHandle ActiveGEHandle = AbilitySystemComp->ApplyGameplayEffectSpecToTarget(*NewHandle.Data.Get(), AbilitySystemComp);
+		return ActiveGEHandle;
 	}
+	return FActiveGameplayEffectHandle();
 }
 
 bool AADemoCharacterBase::ActiveAbility(ESkillType type)

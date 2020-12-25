@@ -2,7 +2,70 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\Cat\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Cat\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_ADemo.662897455.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Cat\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_ADemo.1092712906.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Cat\Documents\GitHub\ADemo" t="IncludeFlat">
+      <e p=".gitignore" t="Include" />
+      <e p="ADemo.sln" t="IncludeFlat" />
+      <e p="ADemo.uproject" t="Include" />
+      <e p="Config" t="Include">
+        <e p="DefaultEditor.ini" t="Include" />
+        <e p="DefaultEditorPerProjectUserSettings.ini" t="Include" />
+        <e p="DefaultEditorSettings.ini" t="Include" />
+        <e p="DefaultEngine.ini" t="Include" />
+        <e p="DefaultGame.ini" t="Include" />
+        <e p="DefaultGameplayTags.ini" t="Include" />
+        <e p="DefaultInput.ini" t="Include" />
+      </e>
+      <e p="Engine" t="Include" />
+      <e p="Games" t="Include" />
+      <e p="Intermediate\Build\Unused" t="ExcludeRecursive" />
+      <e p="Intermediate\ProjectFiles" t="IncludeRecursive">
+        <e p="ADemo.vcxproj" t="IncludeRecursive" />
+        <e p="UE4.vcxproj" t="IncludeRecursive" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="README.md" t="Include" />
+      <e p="Source" t="Include">
+        <e p="ADemo" t="Include">
+          <e p="ADemo.Build.cs" t="Include" />
+          <e p="ADemo.cpp" t="Include" />
+          <e p="ADemo.h" t="Include" />
+          <e p="ADemoAbilitySystemComponent.cpp" t="Include" />
+          <e p="ADemoAbilitySystemComponent.h" t="Include" />
+          <e p="ADemoAttributeSet.cpp" t="Include" />
+          <e p="ADemoAttributeSet.h" t="Include" />
+          <e p="ADemoCharacter.cpp" t="Include" />
+          <e p="ADemoCharacter.h" t="Include" />
+          <e p="ADemoCharacterBase.cpp" t="Include" />
+          <e p="ADemoCharacterBase.h" t="Include" />
+          <e p="ADemoDamageExecution.cpp" t="Include" />
+          <e p="ADemoDamageExecution.h" t="Include" />
+          <e p="ADemoEnum.cpp" t="Include" />
+          <e p="ADemoEnum.h" t="Include" />
+          <e p="ADemoGameMode.cpp" t="Include" />
+          <e p="ADemoGameMode.h" t="Include" />
+          <e p="ADemoGameplayAbilityBase.cpp" t="Include" />
+          <e p="ADemoGameplayAbilityBase.h" t="Include" />
+          <e p="ADemoGameplayAbilitySpawn.cpp" t="Include" />
+          <e p="ADemoGameplayAbilitySpawn.h" t="Include" />
+          <e p="ADemoItem.cpp" t="Include" />
+          <e p="ADemoItem.h" t="Include" />
+          <e p="ADemoNormalSkillItem.cpp" t="Include" />
+          <e p="ADemoNormalSkillItem.h" t="Include" />
+          <e p="ADemoPassiveSkillItem.cpp" t="Include" />
+          <e p="ADemoPassiveSkillItem.h" t="Include" />
+          <e p="ADemoPlayerCharacter.cpp" t="Include" />
+          <e p="ADemoPlayerCharacter.h" t="Include" />
+          <e p="ADemoPlayerEffect.cpp" t="Include" />
+          <e p="ADemoPlayerEffect.h" t="Include" />
+          <e p="AttributeSetData.cpp" t="Include" />
+          <e p="AttributeSetData.h" t="Include" />
+        </e>
+        <e p="ADemo.Target.cs" t="Include" />
+        <e p="ADemoEditor.Target.cs" t="Include" />
+      </e>
+      <e p="Visualizers" t="Include" />
+    </e>
     <e p="F:\Code\Epic Games\UE_4.25\Engine\Config" t="Include">
       <e p="Android" t="Include">
         <e p="AndroidEngine.ini" t="Include" />
@@ -43501,67 +43564,6 @@
       </e>
       <e p="UE4Editor.Target.cs" t="Include" />
       <e p="UE4Game.Target.cs" t="Include" />
-    </e>
-    <e p="F:\Code\Projects\UE\ADemo" t="IncludeFlat">
-      <e p=".gitignore" t="Include" />
-      <e p="ADemo.sln" t="IncludeFlat" />
-      <e p="ADemo.uproject" t="Include" />
-      <e p="Config" t="Include">
-        <e p="DefaultEditor.ini" t="Include" />
-        <e p="DefaultEditorPerProjectUserSettings.ini" t="Include" />
-        <e p="DefaultEditorSettings.ini" t="Include" />
-        <e p="DefaultEngine.ini" t="Include" />
-        <e p="DefaultGame.ini" t="Include" />
-        <e p="DefaultGameplayTags.ini" t="Include" />
-        <e p="DefaultInput.ini" t="Include" />
-      </e>
-      <e p="Engine" t="Include" />
-      <e p="Games" t="Include" />
-      <e p="Intermediate\Build\Unused" t="ExcludeRecursive" />
-      <e p="Intermediate\ProjectFiles" t="IncludeRecursive">
-        <e p="ADemo.vcxproj" t="IncludeRecursive" />
-        <e p="UE4.vcxproj" t="IncludeRecursive" />
-      </e>
-      <e p="packages" t="ExcludeRecursive" />
-      <e p="README.md" t="Include" />
-      <e p="Source" t="Include">
-        <e p="ADemo" t="Include">
-          <e p="ADemo.Build.cs" t="Include" />
-          <e p="ADemo.cpp" t="Include" />
-          <e p="ADemo.h" t="Include" />
-          <e p="ADemoAbilitySystemComponent.cpp" t="Include" />
-          <e p="ADemoAbilitySystemComponent.h" t="Include" />
-          <e p="ADemoAttributeSet.cpp" t="Include" />
-          <e p="ADemoAttributeSet.h" t="Include" />
-          <e p="ADemoCharacter.cpp" t="Include" />
-          <e p="ADemoCharacter.h" t="Include" />
-          <e p="ADemoCharacterBase.cpp" t="Include" />
-          <e p="ADemoCharacterBase.h" t="Include" />
-          <e p="ADemoDamageExecution.cpp" t="Include" />
-          <e p="ADemoDamageExecution.h" t="Include" />
-          <e p="ADemoEnum.cpp" t="Include" />
-          <e p="ADemoEnum.h" t="Include" />
-          <e p="ADemoGameMode.cpp" t="Include" />
-          <e p="ADemoGameMode.h" t="Include" />
-          <e p="ADemoGameplayAbilityBase.cpp" t="Include" />
-          <e p="ADemoGameplayAbilityBase.h" t="Include" />
-          <e p="ADemoGameplayAbilitySpawn.cpp" t="Include" />
-          <e p="ADemoGameplayAbilitySpawn.h" t="Include" />
-          <e p="ADemoItem.cpp" t="Include" />
-          <e p="ADemoItem.h" t="Include" />
-          <e p="ADemoNormalSkillItem.cpp" t="Include" />
-          <e p="ADemoNormalSkillItem.h" t="Include" />
-          <e p="ADemoPassiveSkillItem.cpp" t="Include" />
-          <e p="ADemoPassiveSkillItem.h" t="Include" />
-          <e p="ADemoPlayerCharacter.cpp" t="Include" />
-          <e p="ADemoPlayerCharacter.h" t="Include" />
-          <e p="ADemoPlayerEffect.cpp" t="Include" />
-          <e p="ADemoPlayerEffect.h" t="Include" />
-        </e>
-        <e p="ADemo.Target.cs" t="Include" />
-        <e p="ADemoEditor.Target.cs" t="Include" />
-      </e>
-      <e p="Visualizers" t="Include" />
     </e>
   </component>
 </project>

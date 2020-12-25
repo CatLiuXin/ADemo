@@ -6,11 +6,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1826bb19-c83f-4bbc-9ee1-6c7b30924f73" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Content/ADemo/Blueprints/BP_ADemoController.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/ADemo/Player/Player2/BP_Player2.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ADemo/Base/BP_ADemoGameMode.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ADemo/Base/BP_ADemoGameMode.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/ADemo/AttributeSetData.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/ADemo/AttributeSetData.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ADemo/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ADemo/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ADemo/.idea/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ADemo/.idea/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ADemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ADemo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ADemo/Blueprints/Abilities/BP_PlayerAbilityBase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ADemo/Blueprints/Abilities/BP_PlayerAbilityBase.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/ADemo/Player/BP_CharacterBase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ADemo/Player/BP_CharacterBase.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ADemo/Player/BP_PlayerBase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ADemo/Player/BP_PlayerBase.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/ADemo/Player/Player1/BP_CharacterPlayer1.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ADemo/Player/Player1/BP_CharacterPlayer1.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ADemo/Player/Player2/BP_Player2.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ADemo/Player/Player2/BP_Player2.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ADemo/Res/Animations/AM_lianji.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ADemo/Res/Animations/AM_lianji.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ADemo/Res/Animations/Sword_And_Shield_Slash.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ADemo/Res/Animations/Sword_And_Shield_Slash.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ADemo/Res/Animations/lianji2.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ADemo/Res/Animations/lianji2.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ADemo/Res/Animations/lianji5.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ADemo/Res/Animations/lianji5.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/ADemo/ADemoCharacterBase.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ADemo/ADemoCharacterBase.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/ADemo/ADemoCharacterBase.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ADemo/ADemoCharacterBase.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,12 +35,15 @@
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/Source/ADemo/ADemoAttributeSet.h" />
-      <option value="$PROJECT_DIR$/Source/ADemo/ADemoCharacterBase.h" />
       <option value="$PROJECT_DIR$/Source/ADemo/ADemoDamageExecution.h" />
       <option value="$PROJECT_DIR$/Source/ADemo/ADemoDamageExecution.cpp" />
       <option value="$PROJECT_DIR$/Source/ADemo/ADemoAttributeSet.cpp" />
       <option value="$PROJECT_DIR$/Source/ADemo/ADemoPlayerCharacter.cpp" />
       <option value="$PROJECT_DIR$/Source/ADemo/ADemoPlayerCharacter.h" />
+      <option value="$PROJECT_DIR$/Source/ADemo/AttributeSetData.h" />
+      <option value="$PROJECT_DIR$/Source/ADemo/AttributeSetData.cpp" />
+      <option value="$PROJECT_DIR$/Source/ADemo/ADemoCharacterBase.h" />
+      <option value="$PROJECT_DIR$/Source/ADemo/ADemoCharacterBase.cpp" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1ljgFazvlNDxI2zYO1UBiIj6ojp" />
@@ -274,6 +289,7 @@
       <workItem from="1608115820788" duration="18370000" />
       <workItem from="1608291690805" duration="2372000" />
       <workItem from="1608374044145" duration="1457000" />
+      <workItem from="1608793639393" duration="7231000" />
     </task>
     <servers />
   </component>
