@@ -6,28 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1826bb19-c83f-4bbc-9ee1-6c7b30924f73" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Content/ADemo/Res/Models/Other/SM_Cao.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/ADemo/Res/Models/Players/P1/1P_Tpoos_genguge_Skeleton.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ADemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ADemo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ADemo/Materials/PostProcess/PPM_Outline.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ADemo/Materials/PostProcess/PPM_Outline.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ADemo/Res/Animations/AM_lianji.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ADemo/Res/Animations/fangun_Anim.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ADemo/Res/Animations/fangyu.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ADemo/Res/Animations/lianji1.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ADemo/Res/Animations/lianji2.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ADemo/Res/Animations/lianji3.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ADemo/Res/Animations/lianji4.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ADemo/Res/Animations/lianji5.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ADemo/Res/Animations/lianji6.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ADemo/Res/Animations/lianji6_1.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ADemo/Res/Animations/lianji6_2.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ADemo/Res/Animations/lianji6_3.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ADemo/Res/Models/Players/P1/fangun.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ADemo/Res/Models/Players/P1/fangun_PhysicsAsset.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ADemo/Res/Models/Players/P1/fangun_Skeleton.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ADemo/Res/Models/Players/P1/kuijia3.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ADemo/Res/Models/Players/P1/pifu3.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ADemo/Res/Models/Players/P1/toufa3.uasset" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +15,12 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://F:/Code/Epic Games/UE_4.25/Engine/Source/Runtime/LevelSequence/Public/LevelSequence.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://F:/Code/Epic Games/UE_4.25/Engine/Source/Runtime/LevelSequence/Public/LevelSequenceActor.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://F:/Code/Epic Games/UE_4.25/Engine/Source/Editor/DetailCustomizations/Private/LevelSequenceActorDetails.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://F:/Code/Epic Games/UE_4.25/Engine/Source/Runtime/LevelSequence/Private/LevelSequenceActor.cpp" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
@@ -296,6 +281,7 @@
       <workItem from="1608374044145" duration="1457000" />
       <workItem from="1608793639393" duration="7824000" />
       <workItem from="1608995422424" duration="1336000" />
+      <workItem from="1609246814710" duration="1674000" />
     </task>
     <servers />
   </component>
