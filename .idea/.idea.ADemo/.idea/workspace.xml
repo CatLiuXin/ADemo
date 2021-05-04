@@ -5,7 +5,21 @@
     <projectFile>Intermediate/ProjectFiles/UE4.vcxproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1826bb19-c83f-4bbc-9ee1-6c7b30924f73" name="Default Changelist" comment="" />
+    <list default="true" id="1826bb19-c83f-4bbc-9ee1-6c7b30924f73" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Content/ADemo/Res/Models/Other/BadMan/BM8/OtherModel/She_Anim.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ADemo/Res/Models/Other/BadMan/BM8/OtherModel/She_PhysicsAsset.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ADemo/Res/Models/Other/BadMan/BM8/OtherModel/Wuqi.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ADemo/Res/Models/Other/BadMan/BM8/OtherModel/Wuqi_Anim.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ADemo/Res/Models/Other/BadMan/BM8/OtherModel/Wuqi_PhysicsAsset.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ADemo/Res/Models/Other/BadMan/BM8/OtherModel/Wuqi_Skeleton.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/ADemo/CharacterAnimData.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/ADemo/CharacterAnimData.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ADemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ADemo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ADemo/Res/Models/Other/BadMan/BM8/She.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ADemo/Res/Models/Other/BadMan/BM8/OtherModel/She.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ADemo/Res/Models/Other/BadMan/BM8/She_Anim.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ADemo/Res/Models/Other/BadMan/BM8/She_PhysicsAsset.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ADemo/Res/Models/Other/BadMan/BM8/She_Skeleton.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ADemo/Res/Models/Other/BadMan/BM8/OtherModel/She_Skeleton.uasset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -281,6 +295,8 @@
       <workItem from="1608995422424" duration="1336000" />
       <workItem from="1609246814710" duration="1674000" />
       <workItem from="1609762564676" duration="630000" />
+      <workItem from="1619784087391" duration="55000" />
+      <workItem from="1619784885214" duration="9000" />
     </task>
     <servers />
   </component>
